@@ -1,0 +1,10 @@
+Image credits
+amenity-club, amenity-pool, amenity-sport, amenity-green - AI-generated artist's impressions (Higgsfield)
+
+From prestigeconstructions.com, used as representative images of Prestige villa communities:
+hero-1, hero-2, hero-3, aspen-front, aspen-arch  - Prestige Aspen Greens, The Prestige City
+prestige-logo.svg                                 - Prestige Group official logo
+
+Not used: the images on prestigespringwoods.info labelled as Springwood renders, floor plan and layout
+are photos of other projects (an apartment tower, Prestige Golfshire, Aspen Greens, unrelated houses).
+Replace with official Springwood renders and plans when the developer releases them.
