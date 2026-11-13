@@ -617,3 +617,6 @@ body { padding-bottom: calc(68px + env(safe-area-inset-bottom)); }
 }
 @media (max-width: 359px) { .action-bar .ab-callback, .action-bar .ab-wa { font-size: 11px; letter-spacing: .02em; } }
 @media (min-width: 900px) { .action-bar .ab-callback, .action-bar .ab-wa { flex: 0 0 auto; padding: 0 30px; font-size: 13.5px; min-height: 52px; } }
+
+/* header: no phone number in the top menu bar */
+.header-inner > .phone-pill { display: none !important; }
